@@ -9,3 +9,5 @@ Overfitting Prevention: Strategies such as data augmentation and dropout to impr
 Text Processing with TensorFlow: Built NLP systems using TensorFlow.
 Recurrent Neural Networks (RNNs): Applied RNNs to text repositories for sequence modeling.
 Gated Recurrent Units (GRUs) and Long Short-Term Memory (LSTM): Implemented GRUs and LSTMs for advanced text analysis and sequence prediction tasks.
+3. Sequences and Time series Prediction
+Applied Statistical models, Machine learning and Deep learning models including LSTM for time series prediction
